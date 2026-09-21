@@ -6,11 +6,11 @@ This project introduces a highly integrated, four-layer printed circuit board me
 
 The physical layout and component placement were optimized for mechanical compactness and electrical isolation, ensuring that high-frequency RF domains do not couple noise into the power regulation circuitry or sensitive analog sensor domains. The schematic design is cleanly partitioned into modular functional blocks, distinctly separating the core MCU, power regulation, IMU sensor, and RF matching network.
 
-**3D Board Renders:**
+**3D Board Render:**
 
 <img width="719" height="809" alt="3d" src="https://github.com/user-attachments/assets/7bf23844-93c2-48e4-a239-6bc29f8bd77d" />
 
-**Schematics:**
+**Schematic:**
 
 <img width="3509" height="2481" alt="schematic" src="https://github.com/user-attachments/assets/4b05d4c1-4089-4208-a6da-e28412e0bd67" />
 
