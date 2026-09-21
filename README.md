@@ -9,7 +9,6 @@ The physical layout and component placement were optimized for mechanical compac
 **3D Board Renders:**
 
 <img width="719" height="809" alt="3d" src="https://github.com/user-attachments/assets/7bf23844-93c2-48e4-a239-6bc29f8bd77d" />
-<img width="470" height="685" alt="3d back" src="https://github.com/user-attachments/assets/64559f1c-8242-4ffe-be85-1fc92ac245f0" />
 
 **Schematics:**
 
